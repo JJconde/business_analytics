@@ -31,3 +31,8 @@
 
 ![Events Timeline](events_timeline.png)
 
+**Past Demand Data**
+* observations over the past 100 such periods
+	* Max demand was 81
+	* Min demand was 15
+	* Avg of those 100 observations is 52.8
