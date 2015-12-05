@@ -67,8 +67,8 @@
 			* i.e., computer, gaming console, Smart TV
 
 ## Discussion Questions
-1) Are you a current Netflix subscriber?
-2) If yes, where would you as a customer like to see Netflix improve?
-3) Do you agree with our suggestion to move into the streaming business?
-4) Do you think any other alternatives should have been considered?
-5) Do you believe that the original communication to Netflix subscribers, outlining the pricing and structure changes, could have been improved upon? if yes, what suggestion do you have for how these changes should have been presented and communicated?
+1. Are you a current Netflix subscriber?
+2. If yes, where would you as a customer like to see Netflix improve?
+3. Do you agree with our suggestion to move into the streaming business?
+4. Do you think any other alternatives should have been considered?
+5. Do you believe that the original communication to Netflix subscribers, outlining the pricing and structure changes, could have been improved upon? if yes, what suggestion do you have for how these changes should have been presented and communicated?
