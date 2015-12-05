@@ -29,5 +29,5 @@
 		* buys it as long as it is available on the shelf
 	* get only one chance to order (cannot change your purchase after your decision)
 
-#### Timeline of Events
 ![Events Timeline](events_timeline.png)
+
