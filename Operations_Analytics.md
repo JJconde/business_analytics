@@ -1,9 +1,9 @@
 # Operations Analytics
 
-## Week 1: Descriptive Analytics
+## Week 1: [Descriptive Analytics](#descriptive-analytics)
 * An Operational Decision Problem
 
-* Forecasting with Past Historical Data
+* [Forecasting with Past Historical Data](#intro-to-forecasting)
 * Moving Averages
 * Exponential Smoothing
 
