@@ -29,7 +29,7 @@
 		* buys it as long as it is available on the shelf
 	* get only one chance to order (cannot change your purchase after your decision)
 
-![Events Timeline](events_timeline.png)
+![Events Timeline](images/events_timeline.png)
 
 **Past Demand Data**
 * observations over the past 100 such periods
